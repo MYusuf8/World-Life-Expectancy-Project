@@ -22,5 +22,7 @@ File: World Life Expectancy Exploring Data
 Key questions explored -
 
 How much has life expectancy increased per country between 2007 and 2022? Calculated the difference between each country's minimum and maximum life expectancy to rank countries by improvement.
+
 What is the global average life expectancy trend over time? Aggregated average life expectancy for each year to observe the overall global trend.
+
 Does GDP correlate with life expectancy? Compared average life expectancy against average GDP per country, and used conditional aggregation (CASE statements) to compare outcomes between high-GDP and low-GDP countries.
